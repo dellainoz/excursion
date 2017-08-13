@@ -1,12 +1,29 @@
-h1 {
+body {
+  background-color: black;
+  text-align: center;
   font-family: Verdana;
+  color: white;
+}
+h1 {
   font-weight: Normal;
   font-size: 50px;
-  color: white;
-  text-align: center;
 }
-u{
+#underline {
   color: Aquamarine;
   font-size: 16px;
-  text-align: center;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+#description {
+  font-size: 21px;
+  color: Gray;
+}
+div {
+  padding-top: 20px;
+}
+#footnote {
+  text-align: right;
+  color: Gray;
 }
